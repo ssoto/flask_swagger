@@ -1,10 +1,15 @@
+This example has been based on [Real python post](https://realpython.com/flask-connexion-rest-api/#getting-started).
+
 # How to setup project
+
 Setup a python3.6 virtual environment
 
-Then:
-1. git clone
-2. pip install -r requirements.txt
-3. python flask-connexion-rest/build_database.py
-4. python lask-connexion-rest/server.py
+Then execute:
+```
+git clone
+pip install -r requirements.txt
+python flask-connexion-rest/build_database.py
+python flask-connexion-rest/server.py
+```
 
 And enjoy!
